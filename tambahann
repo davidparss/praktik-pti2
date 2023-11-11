@@ -1,0 +1,9 @@
+-	Bersifat Atomic
+Git dapat membantumu untuk memastikan apakah sebuah tindakan telah benar-benar diselesaikan dengan lengkap atau tidak. Fitur ini sangat penting karena ada beberapa version control system yang operasinya menggunakan non-atomic. Jadi jika ada sistem kontrol yang bersifat non atomic, dan bergantung pada repository, maka kondisi repository menjadi tidak stabil
+-	Media Penyimpanan dalam Folder .git
+Fitur Git yang lain adalah memiliki media penyimpanan dalam folder .git.Berbeda dengan VCS lain seperti CVS atau SVN yang memiliki media penyimpanan tersembunyi seperti, .svn, .cvs, dan juga .etc.
+-	Data Model
+fitur ini memastikan integritas cryptographic pada repository.
+-	Staging Area atau Index
+Fitur ini, developer bisa menggunakan staging area saat melakukan commit dan untuk review sebelum akhirnya diterapkan.
+GIT dikembangkan oleh linux Torvalds

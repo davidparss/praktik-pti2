@@ -1,0 +1,14 @@
+Kelebihan GIT
+GIT mempunyai beberapa kelebihan, yaitu:
+●	Mudah dipelajari dan digunakan
+Kelebihan Git adalah mudah untuk digunakan oleh siapapun. Git dirancang dengan flow, fitur, dan tampilan yang mudah dipelajari dan digunakan, bahkan bagi pengembang pemula sekalipun.
+Selain sistemnya yang mudah untuk dipelajari, Git juga dinilai sangat cepat dan efisien dalam mengelola perubahan pada kode sumber, bahkan untuk proyek yang sangat besar. 
+●	Mendukung pengembangan terdistribusi
+Git memungkinkan para pengembang untuk mengembangkan kode sumber secara terdistribusi dan bekerja secara terpisah pada fitur atau bagian kode yang berbeda-beda, sehingga memudahkan kolaborasi antar tim dalam proyek perangkat lunak. 
+●	Gratis
+Berikutnya, kelebihan Git adalah bersifat open source, yang artinya kamu tidak perlu membayar apa pun untuk menggunakannya. Hal ini jelas sangat bermanfaat bagi pengembang software individu maupun perusahaan kecil yang memiliki anggaran terbatas.
+●	Memiliki sistem keamanan yang baik
+Meskipun gratis, kelebihan Git adalah memiliki sistem keamanan yang baik, termasuk sistem otorisasi dan otentikasi yang memungkinkan para pengembang untuk membatasi akses ke kode sumber. 
+●	Mudah digunakan dengan alat tambahan
+Yang terakhir, kelebihan Git adalah dapat dengan mudah digunakan dengan alat tambahan seperti GitHub, GitLab, dan Bitbucket. Sehingga memungkinkan para pengembang untuk menyimpan kode sumber secara terpusat dan memudahkan kolaborasi antar tim dalam proyek perangkat lunak. 
+Secara keseluruhan, Git memiliki banyak kelebihan yang membuatnya menjadi tools yang sangat populer dan efektif dalam pengembangan perangkat lunak.

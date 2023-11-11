@@ -6,3 +6,4 @@ Fitur Git yang lain adalah memiliki media penyimpanan dalam folder .git.Berbeda 
 fitur ini memastikan integritas cryptographic pada repository.
 -	Staging Area atau Index
 Fitur ini, developer bisa menggunakan staging area saat melakukan commit dan untuk review sebelum akhirnya diterapkan.
+GIT dikembangkan oleh linux Torvalds

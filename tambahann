@@ -7,3 +7,9 @@ fitur ini memastikan integritas cryptographic pada repository.
 -	Staging Area atau Index
 Fitur ini, developer bisa menggunakan staging area saat melakukan commit dan untuk review sebelum akhirnya diterapkan.
 GIT dikembangkan oleh linux Torvalds
+2.	Perintah Dasar
+Terdapat beberapa perintah dasar pada Git yaitu;
+-	Git-Init : digunakan untuk membuat repository yang ada pada file lokal dan berlokasi di folder .git
+-	Git Status : digunakan untuk mengecek status repository lokal.
+-	Git add : untuk perintah menambahkan file baru ke repository yang baru dipilih.
+-	Git commit : digunakan untuk menyimpan apabila terjadi perubahan dan dilakukan pada repository jarak jauh, namun tidak bisa melakukan perubahan.

@@ -17,3 +17,5 @@ Terdapat beberapa perintah dasar pada Git yaitu;
 -	Git Checkout : Untuk menukar cabang aktif dengan cabang yang dipilih
 -	Git Merge : Menggabungkan cabang aktif dengan cabang yang dipilih
 -	Git clone : membuat salinan repository lokal.
+
+
